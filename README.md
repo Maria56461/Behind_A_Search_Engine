@@ -1,7 +1,7 @@
 # Maria-Alexandra Barbu, 315CD 
 
 ## Cerinta 1- Algoritmul Iterative 
-    Am scris functia ajutatoare "read_data_from_file" in care am deschis 
+Am scris functia ajutatoare "read_data_from_file" in care am deschis 
 fisierul de intrare si am citit, pe rand: numarul total de noduri din graf,
 indicele fiecarui nod, numarul de vecini ai fiecarui nod, indicii vecinilor
 fiecarui nod. Am construit matricea de adiacenta, avand grija sa elimin 
