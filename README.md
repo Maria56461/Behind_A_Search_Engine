@@ -1,6 +1,6 @@
-Maria-Alexandra Barbu, 315CD 
+# Maria-Alexandra Barbu, 315CD 
 
-Cerinta 1- Algoritmul Iterative 
+## Cerinta 1- Algoritmul Iterative 
     Am scris functia ajutatoare "read_data_from_file" in care am deschis 
 fisierul de intrare si am citit, pe rand: numarul total de noduri din graf,
 indicele fiecarui nod, numarul de vecini ai fiecarui nod, indicii vecinilor
@@ -13,7 +13,7 @@ iteratie am construit un nou vector de coeficienti vectorizand formula pentru
 aflarea coeficientului unei pagini web si am actualizat mereu R_init cu 
 vectorul aflat la pasul anterior. 
 
-Cerinta 2- Algoritmul Algebraic
+## Cerinta 2- Algoritmul Algebraic
   Ca functii ajutatoare, am implementat algoritmul "Gram_Schmidt" si algoritmul 
 de rezolvare a unui sistem superior triunghiular, "SST". Functia "Gram_Schmidt" 
 primeste ca parametru o matrice "A" nesingulara si realizeaza o factorizare A = 
@@ -29,7 +29,7 @@ din fisierul primit, construieste matricea M iterand prin lista de noduri si
 folosind o formula vectorizata, iar in final calculeaza vectorul de 
 PageRank-uri folosindu-se de functia auxiliara "PR_Inv". 
 
-Cerinta 3- Gradul de Apartenenta 
+## Cerinta 3- Gradul de Apartenenta 
   Am construit functia auxiliara "Apartenenta": din conditia de continuitate 
 am obtinut relatiile: 
  a * val1 + b = 0 si a * val2 + b = 1, de unde: 
